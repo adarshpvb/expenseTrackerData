@@ -1,17 +1,17 @@
 const product = [
     {
         "id": 1,
-        "date": "2023-08-08",
-        "institution": "Bank A",
+        "date": "2023-08-09",
+        "institution": "Employer",
         "account": "Savings",
-        "merchant": "Grocery Store",
-        "amount": 50.0,
-        "type": "Debit",
-        "categoryId": 501,
-        "category": "Groceries",
+        "merchant": "Monthly Salary",
+        "amount": 2000.0,
+        "type": "Credit",
+        "categoryId": 7,
+        "category": "Income",
         "isPending": false,
         "isTransfer": false,
-        "isExpense": true,
+        "isExpense": false,
         "isEdited": false
     },
     {
@@ -74,82 +74,7 @@ const product = [
         "isTransfer": false,
         "isExpense": true,
         "isEdited": false
-    },
-    {
-        "id": 6,
-        "date": "2023-08-08",
-        "institution": "Bank A",
-        "account": "Savings",
-        "merchant": "ATM Fee",
-        "amount": 2.5,
-        "type": "Debit",
-        "categoryId": 401,
-        "category": "Fees & Charges",
-        "isPending": false,
-        "isTransfer": false,
-        "isExpense": true,
-        "isEdited": false
-    },
-    {
-        "id": 7,
-        "date": "2023-08-08",
-        "institution": "Restaurant",
-        "account": "Debit Card",
-        "merchant": "Fast Food Joint",
-        "amount": 12.0,
-        "type": "Debit",
-        "categoryId": 501,
-        "category": "Food & Dining",
-        "isPending": false,
-        "isTransfer": false,
-        "isExpense": true,
-        "isEdited": false
-    },
-    {
-        "id": 8,
-        "date": "2023-08-08",
-        "institution": "Home Improvement Store",
-        "account": "Credit Card",
-        "merchant": "DIY Supplies",
-        "amount": 60.0,
-        "type": "Debit",
-        "categoryId": 602,
-        "category": "Home",
-        "isPending": false,
-        "isTransfer": false,
-        "isExpense": true,
-        "isEdited": false
-    },
-    {
-        "id": 9,
-        "date": "2023-08-09",
-        "institution": "Employer",
-        "account": "Savings",
-        "merchant": "Monthly Salary",
-        "amount": 2000.0,
-        "type": "Credit",
-        "categoryId": 7,
-        "category": "Income",
-        "isPending": false,
-        "isTransfer": false,
-        "isExpense": false,
-        "isEdited": false
-    },
-    {
-        "id": 10,
-        "date": "2023-08-10",
-        "institution": "Online Store",
-        "account": "Credit Card",
-        "merchant": "Electronics Shop",
-        "amount": 300.0,
-        "type": "Debit",
-        "categoryId": 801,
-        "category": "Shopping",
-        "isPending": false,
-        "isTransfer": false,
-        "isExpense": true,
-        "isEdited": false
-    }   
+    } 
 
 ];
 
