@@ -1,7 +1,7 @@
 const product = [
     {
         "id": 1,
-        "date": "2023-08-09",
+        "date": "2023-08-08",
         "institution": "Employer",
         "account": "Savings",
         "merchant": "Monthly Salary",
@@ -16,7 +16,7 @@ const product = [
     },
     {
         "id": 2,
-        "date": "2023-08-08",
+        "date": "2023-08-09",
         "institution": "Credit Union B",
         "account": "Checking",
         "merchant": "Restaurant XYZ",
@@ -32,7 +32,7 @@ const product = [
 
     {
         "id": 3,
-        "date": "2023-08-08",
+        "date": "2023-08-10",
         "institution": "Gas Station",
         "account": "Debit Card",
         "merchant": "Gas Station ABC",
