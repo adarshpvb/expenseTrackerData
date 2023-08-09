@@ -149,37 +149,7 @@ const product = [
         "isTransfer": false,
         "isExpense": true,
         "isEdited": false
-    },
-    {
-        "id": 11,
-        "date": "2023-08-11",
-        "institution": "Bank B",
-        "account": "Savings",
-        "merchant": "Transfer To Friend",
-        "amount": 50.0,
-        "type": "Debit",
-        "categoryId": 9,
-        "category": "Transfer",
-        "isPending": false,
-        "isTransfer": true,
-        "isExpense": false,
-        "isEdited": false
-    },
-    {
-        "id": 12,
-        "date": "2023-08-12",
-        "institution": "Restaurant",
-        "account": "Debit Card",
-        "merchant": "Coffee Shop",
-        "amount": 5.0,
-        "type": "Debit",
-        "categoryId": 502,
-        "category": "Restaurants",
-        "isPending": false,
-        "isTransfer": false,
-        "isExpense": true,
-        "isEdited": false
-    }    
+    }   
 
 ];
 
