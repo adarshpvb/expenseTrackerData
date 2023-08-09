@@ -1,7 +1,7 @@
 const product = [
     {
         "id": 1,
-        "date": "2023-08-01",
+        "date": "2023-08-08",
         "institution": "Bank A",
         "account": "Savings",
         "merchant": "Grocery Store",
@@ -16,7 +16,7 @@ const product = [
     },
     {
         "id": 2,
-        "date": "2023-08-02",
+        "date": "2023-08-08",
         "institution": "Credit Union B",
         "account": "Checking",
         "merchant": "Restaurant XYZ",
@@ -32,7 +32,7 @@ const product = [
 
     {
         "id": 3,
-        "date": "2023-08-03",
+        "date": "2023-08-08",
         "institution": "Gas Station",
         "account": "Debit Card",
         "merchant": "Gas Station ABC",
@@ -47,7 +47,7 @@ const product = [
     },
     {
         "id": 4,
-        "date": "2023-08-04",
+        "date": "2023-08-08",
         "institution": "Utility Company",
         "account": "Checking",
         "merchant": "Water Bill",
@@ -62,7 +62,7 @@ const product = [
     },
     {
         "id": 5,
-        "date": "2023-08-05",
+        "date": "2023-08-08",
         "institution": "Cinema",
         "account": "Credit Card",
         "merchant": "Movie Tickets",
@@ -77,7 +77,7 @@ const product = [
     },
     {
         "id": 6,
-        "date": "2023-08-06",
+        "date": "2023-08-08",
         "institution": "Bank A",
         "account": "Savings",
         "merchant": "ATM Fee",
@@ -92,7 +92,7 @@ const product = [
     },
     {
         "id": 7,
-        "date": "2023-08-07",
+        "date": "2023-08-08",
         "institution": "Restaurant",
         "account": "Debit Card",
         "merchant": "Fast Food Joint",
